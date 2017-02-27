@@ -11,7 +11,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.userinfo.card.myapplication.MainActivity"
     >
-    <android.support.v7.widget.RecyclerView
+    <com.userinfo.card.myapplication.our.SpeedRecyclerView
         android:id="@+id/rv"
         android:layout_width="307dp"
         android:layout_height="wrap_content"/>
