@@ -6,6 +6,8 @@
     >
     <com.userinfo.card.myapplication.our.CircleImageView
         android:id="@+id/civ_img"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
         android:layout_width="56dp"
         android:layout_height="56dp"/>
 </RelativeLayout>
